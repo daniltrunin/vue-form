@@ -1,5 +1,49 @@
-# Vue 3 + Vite
+<h1 align="center">
+  Vue Form
+</h1>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<h4 align="center">Form based on <a href="https://vuejs.org/" target="_blank">Vue</a></h4>
+<h4 align="center">Created by frontend developer from Orenburg, Russia — <a href="https://github.com/daniltrunin" target="_blank">Daniil</a></h4>
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+> [!IMPORTANT]
+> Made with Vite
+
+<p align="center">
+    <a href="https://t.me/shoutoutbelgium">
+    <img src="https://img.shields.io/badge/Telegram-7ec8e3">
+    </a>
+    <a href="https://github.com/daniltrunin">
+    <img src="https://img.shields.io/badge/GitHub-868b8e">
+    </a>
+</p>
+
+<p align="center">
+  <a href="#techologies">Techologies</a> •
+</p>
+
+![screenshot](./public/presentation.gif)
+
+> [!IMPORTANT]
+> Application still developing. There is a features currently are not added, but they will be.
+
+## Techologies
+
+<p align="left">
+    <a href="https://vuejs.org/">
+    <img src="https://img.shields.io/badge/Vue-58b559">
+    </a>
+    <a href="https://vite.dev/">
+    <img src="https://img.shields.io/badge/Vite-edea15">
+    </a>
+</p>
+
+## You may also like...
+
+- [Popcorn Server](https://github.com/daniltrunin/popcorn-Express.JS-server) - Popcorn Express.JS Server
+- [Chatify](https://github.com/daniltrunin/chatify-client) - Real Time Chat Based App
+- [Habbit](https://github.com/amitmerchant1990/correo) - Task, Habbits Tracker App
+
+---
+
+> GitHub [@daniltrunin](https://github.com/daniltrunin) &nbsp;&middot;&nbsp;
+> Telegram [@shoutoutbelgium](https://t.me/shoutoutbelgium)
