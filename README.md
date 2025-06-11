@@ -1,12 +1,12 @@
 <h1 align="center">
-  Vue Form
+  Vue 3 Form
 </h1>
 
-<h4 align="center">Form based on <a href="https://vuejs.org/" target="_blank">Vue</a></h4>
+<h4 align="center">Form based on <a href="https://vuejs.org/" target="_blank">Vue 3</a></h4>
 <h4 align="center">Created by frontend developer from Orenburg, Russia — <a href="https://github.com/daniltrunin" target="_blank">Daniil</a></h4>
 
 > [!IMPORTANT]
-> Made with Vite
+> Simple login and registration form with pleasant design
 
 <p align="center">
     <a href="https://t.me/shoutoutbelgium">
@@ -17,25 +17,7 @@
     </a>
 </p>
 
-<p align="center">
-  <a href="#techologies">Techologies</a> •
-</p>
-
 ![screenshot](./public/presentation.gif)
-
-> [!IMPORTANT]
-> Application still developing. There is a features currently are not added, but they will be.
-
-## Techologies
-
-<p align="left">
-    <a href="https://vuejs.org/">
-    <img src="https://img.shields.io/badge/Vue-58b559">
-    </a>
-    <a href="https://vite.dev/">
-    <img src="https://img.shields.io/badge/Vite-edea15">
-    </a>
-</p>
 
 ## You may also like...
 
