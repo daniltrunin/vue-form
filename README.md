@@ -8,15 +8,6 @@
 > [!IMPORTANT]
 > Simple login and registration form with pleasant design
 
-<p align="center">
-    <a href="https://t.me/shoutoutbelgium">
-    <img src="https://img.shields.io/badge/Telegram-7ec8e3">
-    </a>
-    <a href="https://github.com/daniltrunin">
-    <img src="https://img.shields.io/badge/GitHub-868b8e">
-    </a>
-</p>
-
 ![screenshot](./public/presentation.gif)
 
 ## You may also like...
